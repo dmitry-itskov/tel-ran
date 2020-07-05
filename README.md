@@ -1,0 +1,2 @@
+# tel-ran
+Educational git
